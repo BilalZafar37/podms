@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin",
+            "role": "admin",
+            "department": "dev"
+        },
+        {
+            "username": "user2",
+            "password": "pass2",
+            "role": "user",
+            "department": "Riyadh"
+        },
+        {
+            "username": "user3",
+            "password": "password3",
+            "role": "user",
+            "department": "Jeddah"
+        },
+        {
+            "username": "user4",
+            "password": "password4",
+            "role": "user",
+            "department": "Dammam"
+        }
+    ]
+}
